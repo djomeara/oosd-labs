@@ -9,6 +9,7 @@ public class LAB3B {
 		String string2;
 		
 		string1 = input.next();
+		string2 = input.next();
 	}
 
 }

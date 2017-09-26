@@ -8,6 +8,7 @@ public class LAB3A {
 	{
 		
 		
+		
 		Scanner input = new Scanner( System.in );            
 		int integer;
 		float float1;

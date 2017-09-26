@@ -9,7 +9,7 @@ public class Password3
 			public static void main(String args[]) throws IOException
 		  	{
 				String p1, p2;         // password and confirmed password
-		    		boolean confirmed = false;
+		    	boolean confirmed = false;
 				int attempts = 0;
 		  
 		    		BufferedReader keyboardInput;
